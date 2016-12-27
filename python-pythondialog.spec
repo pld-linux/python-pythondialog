@@ -9,7 +9,7 @@
 Summary:	Python wrapper for the UNIX "dialog" utility
 Name:		python-%{module}
 Version:	3.4.0
-Release:	0.1
+Release:	1
 License:	LGPL v2.1
 Group:		Libraries/Python
 Source0:	http://downloads.sourceforge.net/pythondialog/python2-%{module}-%{version}.tar.bz2
